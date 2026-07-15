@@ -50,8 +50,8 @@ fn main() ! Console {
 |---|---|
 | 🌐 Website | [mvl-lang.org](https://mvl-lang.org) |
 | 📖 Documentation | [mvl-lang.org/getting-started](https://mvl-lang.org/getting-started/) |
-| 🎯 Compiler/Code | [github.com/mvl-lang/mvl](github.com/mvl-lang/mvl) |
-| 🎯 Examples | [github.com/mvl-lang/examples](github.com/mvl-lang/examples) |
+| 🎯 Compiler/Code | [github.com/mvl-lang/mvl](https://github.com/mvl-lang/mvl) |
+| 🎯 Examples | [github.com/mvl-lang/examples](https://github.com/mvl-lang/examples) |
 | 📊 Benchmark (incl. Owasp/CVE) | [github.com/mvl-lang/benchmark](https://github.com/mvl-lang/benchmark) |
 | 📦 Install | `curl -fsSL https://mvl-lang.org/install.sh \| sh` |
 | 📜 License | Apache-2.0 |
