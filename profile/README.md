@@ -34,6 +34,7 @@ LLMs generate code effortlessly — annotations that are too tedious for humans 
 
 ```sh
 brew tap mvl-lang/mvl
+brew trust mvl-lang/mvl    # Homebrew 6.x requires trusting third-party taps
 brew install mvl
 ```
 
