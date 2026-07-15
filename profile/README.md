@@ -30,11 +30,11 @@ LLMs generate code effortlessly — annotations that are too tedious for humans 
 
 ### Get started
 
-```bash
+```sh
 curl -fsSL https://mvl-lang.org/install.sh | sh
 ```
 
-```mvl
+```rust
 fn double(x: Int where x > 0) -> Int where self > 0 {
     x * 2
 }
@@ -50,6 +50,9 @@ fn main() ! Console {
 |---|---|
 | 🌐 Website | [mvl-lang.org](https://mvl-lang.org) |
 | 📖 Documentation | [mvl-lang.org/getting-started](https://mvl-lang.org/getting-started/) |
+| 🎯 Compiler/Code | [mvl-lang.org/mvl](https://mvl-lang.org/mvl) |
+| 🎯 Examples | [mvl-lang.org/examples](https://mvl-lang.org/examples) |
+| 📊 Benchmark (incl. Owasp/CVE) | [mvl-lang.org/benchmark](https://mvl-lang.org/benchmark) |
 | 📦 Install | `curl -fsSL https://mvl-lang.org/install.sh \| sh` |
 | 📜 License | Apache-2.0 |
 | 🏗️ Built by | [LAB271](https://github.com/LAB271) |
