@@ -30,6 +30,15 @@ LLMs generate code effortlessly — annotations that are too tedious for humans 
 
 ### Get started
 
+**Homebrew (macOS Apple Silicon):**
+
+```sh
+brew tap mvl-lang/mvl
+brew install mvl
+```
+
+**Universal install script (all platforms, builds from source):**
+
 ```sh
 curl -fsSL https://mvl-lang.org/install.sh | sh
 ```
