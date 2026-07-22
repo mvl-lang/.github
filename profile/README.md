@@ -59,6 +59,7 @@ fn main() ! Console {
 | | |
 |---|---|
 | 🌐 Website | [mvl-lang.org](https://mvl-lang.org) |
+| 💬 Discord | [Join here] (https://discord.gg/BuWfh7A2A) |
 | 📖 Documentation | [mvl-lang.org/getting-started](https://mvl-lang.org/getting-started/) |
 | 💻 Compiler/Code | [github.com/mvl-lang/mvl](https://github.com/mvl-lang/mvl) |
 | 🎯 Examples | [github.com/mvl-lang/examples](https://github.com/mvl-lang/examples) |
